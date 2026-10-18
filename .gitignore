@@ -10,3 +10,10 @@ frontend/dist/
 
 # Environment variables
 .env
+
+# Keep screenshots in GitHub
+!screenshots/
+
+# Keep demo videos out of Git history
+*.mp4
+*.mov
