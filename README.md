@@ -88,3 +88,9 @@ The application uses SQLite to store notes, including their titles, content, and
 ## Author
 
 Developed as part of the CodeNova Full Stack Development Internship.
+
+## Demo Video
+
+Watch the Notes Application demonstration here:
+
+[Click here to watch the demo video] (https://drive.google.com/file/d/1-x1aoVMRoq614zFoDtyyFbsEW6Z6INGO/view?usp=sharing)
